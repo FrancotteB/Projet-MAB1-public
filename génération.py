@@ -41,6 +41,8 @@ print(f'All files have been saved in the folder: {folder_name}')
 
 #%%
 
+# Exemple de comparaison
+
 acomp22 = P22['db1_ef_f_aut_mnorm']
 acomp23 = P23['db1_ef_f_aut_mnorm']
 acompapp = papp['db1_ef_f_aut_mnorm']
